@@ -1,4 +1,4 @@
 # Machine_Learning
 这是学习机器学习相关的代码
 
-7.9学习了matplotlib的相关用法，学会了如何作图
+7.9学习了matplotlib的相关用法，学会了如何作图，其中7月9号代码包括matplotlib_2、matplotlib_3和中文字符显示的插入import
